@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/CovidPatient.h
+Patient.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Patient.h
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/IOAble.h
+iostream
+-
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Menu.h
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Patient.h
+IOAble.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/IOAble.h
+Ticket.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Ticket.h
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/PreTriage.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+PreTriage.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/PreTriage.h
+utils.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/utils.h
+CovidPatient.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/CovidPatient.h
+TriagePatient.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/TriagePatient.h
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/PreTriage.h
+Patient.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Patient.h
+Menu.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Menu.h
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Ticket.h
+Time.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Time.h
+IOAble.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/IOAble.h
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Time.h
+iostream
+-
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/TriagePatient.h
+Patient.h
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/Patient.h
+
+/Users/mike/OneDrive - Seneca/Seneca/CPA_2/OOP244-NAA/OOP Workshops/Assignment/utils.h
+iostream
+-
+
